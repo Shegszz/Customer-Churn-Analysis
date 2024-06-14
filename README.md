@@ -17,3 +17,6 @@ To reproduce the analysis, follow these steps:
 1. Clone the repository.
 2. Install required packages.
 3. Run the analysis script.
+
+## Data Source
+The data was sourced from [kaggle](https://www.kaggle.com/datasets/rashadrmammadov/customer-churn-dataset) 
